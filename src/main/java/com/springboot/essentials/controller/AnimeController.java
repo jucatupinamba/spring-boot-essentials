@@ -1,7 +1,8 @@
 package com.springboot.essentials.controller;
 
-import com.br.projeto.domain.Anime;
-import com.br.projeto.util.DateUtil;
+
+import com.springboot.essentials.domain.Anime;
+import com.springboot.essentials.util.DateUtil;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.web.bind.annotation.GetMapping;
