@@ -1,4 +1,4 @@
-package com.br.projeto;
+package com.br.projeto.domain;
 
 public class Anime {
 
